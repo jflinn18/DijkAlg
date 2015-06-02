@@ -18,7 +18,7 @@ class DijkstraAlgorithmH(object):
 
 		
 	def input_initNode(self):
-		print "Which node is the starting node?"
+		print "\nWhich node is the starting node?",
 		n = raw_input()
 		return n
 
@@ -44,7 +44,7 @@ class DijkstraAlgorithmH(object):
 					
 		while len(heap) > 0:
 			currNode = heappop(heap)
-			print currNode
+			#print currNode
 			for n in currNode.neighbors:
 				#print currNode.getCost(n)
 				if n.dist > currNode.dist + currNode.getCost(n):
@@ -54,8 +54,8 @@ class DijkstraAlgorithmH(object):
 					heappush(heap, currNode)
 					
 		for i in g.nodeList:
-			print str(g.getNode(i).getName() + " " + str(g.getNode(i).dist))
+			print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))
 			
 			
 		for i in g.nodeList:
-			print g.getNode(i).getName() + " --- " + str(self.get_path(g.getNode(i)))
+			print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))
