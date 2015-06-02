@@ -26,15 +26,26 @@ for i in g.nodeList:
 print str([i.name for i in heap])
 	
 	
-while not heap.empty():    # heap will never be empty. FIX ME
+#while not heap.empty():    # heap will never be empty. FIX ME
+# while len(heap) > 0:
+	# currNode = heappop(heap)
+	# print currNode
+	# for n in g.getNode(currNode).neighbors:
+		# if n.dist > currNode.dist + g.getNode.getCost(n):
+			# n.dist = currNode.dist + g.getNode.getCost(n)
+			# n.prev = currNode.getName()
+			# heappush(heap, (n.dist, n))
+			
+			
+while len(heap) > 0:
 	currNode = heappop(heap)
 	print currNode
-	for n in g.getNode(currNode).neighbors:
-		if n.dist > currNode.dist + g.getNode.getCost(n):
-			n.dist = currNode.dist + g.getNode.getCost(n)
+	for n in currNode.neighbors:
+		print n
+		if n.dist > currNode.dist + currNode.getCost(n):
+			n.dist = currNode.dist + currNode.getCost(n)
 			n.prev = currNode.getName()
-			heappush(heap, (n.dist, n))
-			
+			heappush(heap, currNode)
 			
 for i in g.nodeList:
-	print(g.getNode(i).getName + " " + g.getNode(i).dist)
+	print str(g.getNode(i).getName() + " " + str(g.getNode(i).dist))
