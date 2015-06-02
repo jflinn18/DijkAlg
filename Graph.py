@@ -1,7 +1,7 @@
-#TEST
 from Node import *
 
-class Graph:
+#class Graph:      ---Python3
+class Graph(object):
 
 	def __init__(self):
 		self.nodeList = {}
@@ -31,7 +31,7 @@ class Graph:
 			
 		self.nodeList[f].addNeighbor(self.nodeList[t], cost)
 		
-	def getnodeices(self):
+	def getNodes(self):
 		return self.nodeList.keys()
 		
 	def __iter__(self):
