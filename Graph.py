@@ -1,3 +1,4 @@
+#TEST
 from Node import *
 
 class Graph:
