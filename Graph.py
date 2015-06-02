@@ -30,9 +30,6 @@ class Graph(object):
 			nv = self.addNode(t)
 			
 		self.nodeList[f].addNeighbor(self.nodeList[t], cost)
-		
-		# this gives us twice as many edges and fixes the problem of the neighbors of get
-		# the give the forward and backward types of the edges
 		self.nodeList[t].addNeighbor(self.nodeList[f], cost)
 		
 	def getNodes(self):

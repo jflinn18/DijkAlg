@@ -28,4 +28,4 @@ class Node(object):
 		return self.name
 		
 	def getCost(self, nbr):
-		return self.neighbors(nbr)
+		return self.neighbors[nbr]
