@@ -16,6 +16,7 @@ g.addEdge('f', 'g', 3)
 g.addEdge('e', 'g', 2)
 
 #the vertices that are connected by edges
-for v in g:
-	for w in v.getNeighbors():
-		print("( %s , %s )" % (v.getName(), w.getName()))
+#uncomment the next three lines to print out
+# for v in g:
+	# for w in v.getNeighbors():
+		# print("( %s , %s )" % (v.getName(), w.getName()))
