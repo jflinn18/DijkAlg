@@ -43,10 +43,12 @@ class DijkstraAlgorithmH(object):
 					
 					
 		while len(heap) > 0:
+			heap.sort()
 			currNode = heappop(heap)
-			#print currNode
+#			print currNode                           # for debugging purposes
 			for n in currNode.neighbors:
-				#print currNode.getCost(n)
+#				print " -- " + str(currNode.getCost(n))
+#				print " -- " + str(n.dist)
 				if n.dist > currNode.dist + currNode.getCost(n):
 					n.dist = currNode.dist + currNode.getCost(n)
 					n.prev = currNode
