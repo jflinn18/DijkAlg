@@ -4,7 +4,7 @@ class Node(object):
 	def __init__(self, key):
 		self.name = key;
 		self.neighbors = {}
-		self.visited = False
+#		self.visited = False
 		self.dist = float('inf')
 		self.prev = None
 		
