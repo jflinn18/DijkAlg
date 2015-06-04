@@ -55,9 +55,15 @@ class DijkstraAlgorithmH(object):
 		#			n.prev = currNode.getName()
 					heappush(heap, currNode)
 					
+		# for i in g.nodeList:
+			# print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))
+		
+		print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
+			
 		for i in g.nodeList:
-			print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))
+			p= self.get_path(g.getNode(i))
+			print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(p), str(len(p)-1))
 			
 			
-		for i in g.nodeList:
-			print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))
+		# for i in g.nodeList:
+			# print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))
