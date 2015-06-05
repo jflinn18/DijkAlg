@@ -49,17 +49,11 @@ class DijkstraAlgorithmH(object):
 #				print " -- " + str(currNode.getCost(n))
 #				print " -- " + str(n.dist)
 #				print str(currNode.hop_count)
-				if n.dist > currNode.dist + currNode.getCost(n):
+				if n.dist > currNode.dist + currNode.getCost(n) or (n.dist == currNode.dist + currNode.getCost(n) and n.hop_count > currNode.hop_count + 1):
 					n.dist = currNode.dist + currNode.getCost(n)
 					n.prev = currNode
 					n.hop_count = currNode.hop_count + 1
 					heappush(heap, currNode)
-					
-				if n.dist == currNode.dist + currNode.getCost(n):
-					if n.hop_count > currNode.hop_count + 1:
-						n.prev = currNode
-						n.hop_count = currNode.hop_count + 1
-						heappush(heap, currNode)
 						
 					
 		# for i in g.nodeList:
