@@ -41,19 +41,26 @@ class DijkstraAlgorithmH(object):
 		  heappush(heap, g.getNode(i))
 
 					
-					
 		while len(heap) > 0:
-			heap.sort()
+			heapify(heap)
 			currNode = heappop(heap)
 #			print currNode                           # for debugging purposes
 			for n in currNode.neighbors:
 #				print " -- " + str(currNode.getCost(n))
 #				print " -- " + str(n.dist)
+#				print str(currNode.hop_count)
 				if n.dist > currNode.dist + currNode.getCost(n):
 					n.dist = currNode.dist + currNode.getCost(n)
 					n.prev = currNode
-		#			n.prev = currNode.getName()
+					n.hop_count = currNode.hop_count + 1
 					heappush(heap, currNode)
+					
+				if n.dist == currNode.dist + currNode.getCost(n):
+					if n.hop_count > currNode.hop_count + 1:
+						n.prev = currNode
+						n.hop_count = currNode.hop_count + 1
+						heappush(heap, currNode)
+						
 					
 		# for i in g.nodeList:
 			# print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))

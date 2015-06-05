@@ -7,6 +7,7 @@ class Node(object):
 #		self.visited = False
 		self.dist = float('inf')
 		self.prev = None
+		self.hop_count = 0
 		
 	def addNeighbor(self, nbr, cost=0):
 		self.neighbors[nbr] = cost
