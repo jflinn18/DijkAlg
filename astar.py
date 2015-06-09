@@ -76,7 +76,8 @@ class Astar(object):
 				tentative_g_score = currNode.dist + currNode.getCost(n)
 
 				
-				if n not in heap or (tentative_g_score < currNode.getCost(n)):	
+#				if n not in heap or (tentative_g_score < currNode.getCost(n) + currNode.dist):
+				if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
 					if n not in heap:
 						heappush(heap, n)	
 						
