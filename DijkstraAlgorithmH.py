@@ -44,7 +44,7 @@ class DijkstraAlgorithmH(object):
 		while len(heap) > 0:
 			heapify(heap)
 			currNode = heappop(heap)
-#			print currNode                           # for debugging purposes
+			print currNode                           # for debugging purposes
 			for n in currNode.neighbors:
 #				print " -- " + str(currNode.getCost(n))
 #				print " -- " + str(n.dist)
