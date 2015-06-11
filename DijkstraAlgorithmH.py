@@ -1,11 +1,13 @@
 from graph_creationF import *
 from heapq import *
+from time import *
 
 
 class DijkstraAlgorithmH(object):
 	
 	def __init__(self):
 		self.initNode = None
+		self.time = ''
 	
 	# param - a Node object
 	def get_path(self, last_node):
@@ -22,6 +24,8 @@ class DijkstraAlgorithmH(object):
 		n = raw_input()
 		return n
 
+	def get_time(self, start, end):
+		self.time = "\nTime:" + str(end - start)
 
 	def dijk_alg(self):	
 
@@ -36,6 +40,8 @@ class DijkstraAlgorithmH(object):
 		g.getNode(self.initNode).dist = 0
 
 		heap = []
+		
+		start = time()
 
 		for i in g.nodeList:
 		  heappush(heap, g.getNode(i))
@@ -44,7 +50,7 @@ class DijkstraAlgorithmH(object):
 		while len(heap) > 0:
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode
+#			print currNode
 			for n in currNode.neighbors:
 				if n.dist > currNode.dist + currNode.getCost(n) or (n.dist == currNode.dist + currNode.getCost(n) and n.hop_count > currNode.hop_count + 1):
 					n.dist = currNode.dist + currNode.getCost(n)
@@ -53,8 +59,10 @@ class DijkstraAlgorithmH(object):
 					heappush(heap, currNode)
 						
 					
-		for i in g.nodeList:
-			print g.getNode(i)
+		# for i in g.nodeList:
+			# print g.getNode(i)
+		end = time()
+		self.get_time(start, end)
 		
 		print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
 			
@@ -62,6 +70,6 @@ class DijkstraAlgorithmH(object):
 			p= self.get_path(g.getNode(i))
 			print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(p), str(len(p)-1))
 			
-			
+		print "\n" + self.time
 		# for i in g.nodeList:
 			# print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))
