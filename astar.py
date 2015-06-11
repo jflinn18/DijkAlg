@@ -1,5 +1,5 @@
 from graph_creationF import *
-from heapq import *
+from heapq2 import *
 from random import *
 import pdb
 from time import *
@@ -12,6 +12,7 @@ class Astar(object):
 		self.goalNode = None
 		self.time = ''
 		self.cost = 0
+		seed()
 		
 	
 	# param - a Node object
@@ -20,7 +21,8 @@ class Astar(object):
 		while not last_node.prev is None:
 			last_node = last_node.prev
 			s.append(last_node.getName())
-			
+		
+		s.reverse()
 		return s
 
 		
@@ -39,7 +41,6 @@ class Astar(object):
 
 		
 	def heuristic_cost_estimate(self):
-		seed()
 		return randint(0, 5)
 
 	def as_alg(self):
@@ -56,24 +57,14 @@ class Astar(object):
 		#initNode = 'a'
 
 		g.getNode(self.initNode).dist = 0
+		g.getNode(self.initNode).f_score = 0
 
 		heap = []
 		
 		start = time()
 		
 		heappush(heap, g.getNode(self.initNode))
-		
-		# for i in g.nodeList:
-		  # heappush(heap, g.getNode(i))
-		  
-		  
-		  #pseudocode
-		  
-		g_score = 0    # Cost from start along best known path.
-		# Estimated total cost from start to goal through y.
-		f_score = g_score + heuristic_cost_estimate()
-		
-		  
+
 
 		while len(heap) > 0:
 			heapify(heap)
@@ -99,8 +90,7 @@ class Astar(object):
 
 					n.dist = tentative_g_score			
 					n.hop_count = currNode.hop_count + 1				
-					#pseudocode
-					#f_score[neighbor] = g_score[neighbor] + heuristic_cost_estimate(neighbor, self.goal)
+					n.f_score = n.dist + self.heuristic_cost_estimate()
 		
 		end = time()
 		self.get_time(start, end)
@@ -109,15 +99,4 @@ class Astar(object):
 		print "Cost: " + str(self.cost)
 		print "Path: " + str(path)
 		print "Time: " + self.time
-		# for i in g.nodeList:
-			# print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))
 		
-		# print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
-			
-		# for i in g.nodeList:
-			# p= self.get_path(g.getNode(i))
-			# print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(p), str(len(p)-1))
-			
-			
-		# for i in g.nodeList:
-			# print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))

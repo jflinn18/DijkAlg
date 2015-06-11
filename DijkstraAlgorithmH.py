@@ -1,5 +1,5 @@
 from graph_creationF import *
-from heapq import *
+from heapq2 import *
 from time import *
 
 
@@ -8,6 +8,7 @@ class DijkstraAlgorithmH(object):
 	def __init__(self):
 		self.initNode = None
 		self.time = ''
+		self.path = ''
 	
 	# param - a Node object
 	def get_path(self, last_node):
@@ -16,7 +17,10 @@ class DijkstraAlgorithmH(object):
 			last_node = last_node.prev
 			s.append(last_node.getName())
 			
-		return s
+		s.reverse()
+		# This is storing a path in it every single time. 
+		# self.path will always be the path to the last node in the list.
+		self.path = s
 
 		
 	def input_initNode(self):
@@ -50,7 +54,7 @@ class DijkstraAlgorithmH(object):
 		while len(heap) > 0:
 			heapify(heap)
 			currNode = heappop(heap)
-#			print currNode
+	#		print currNode
 			for n in currNode.neighbors:
 				if n.dist > currNode.dist + currNode.getCost(n) or (n.dist == currNode.dist + currNode.getCost(n) and n.hop_count > currNode.hop_count + 1):
 					n.dist = currNode.dist + currNode.getCost(n)
@@ -67,8 +71,8 @@ class DijkstraAlgorithmH(object):
 		print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
 			
 		for i in g.nodeList:
-			p= self.get_path(g.getNode(i))
-			print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(p), str(len(p)-1))
+			self.get_path(g.getNode(i))
+			print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(self.path), str(len(self.path)-1))
 			
 		print "\n" + self.time
 		# for i in g.nodeList:
