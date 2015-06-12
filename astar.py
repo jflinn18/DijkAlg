@@ -85,8 +85,7 @@ class Astar(object):
 
 
 			if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
-
-				if n not in heap:
+				f n not in heap:
 					heappush(heap, n)	
 					
 				n.prev = currNode
