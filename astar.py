@@ -41,7 +41,7 @@ class Astar(object):
 
 		
 	def heuristic_cost_estimate(self):
-		return randint(0, 5)
+		return randint(0, 10)
 
 	def as_alg(self):
 		closedset = set()
@@ -76,23 +76,26 @@ class Astar(object):
 				break
 			closedset.add(currNode)
 			
+			print currNode.getName()			
 			for n in currNode.neighbors:
 				if n in closedset:
 					continue
 				tentative_g_score = currNode.dist + currNode.getCost(n)
+	
 
-				
+				if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
+					if n not in heap:
+						heappush(heap, n)	
+						
+					n.prev = currNode
 
-
-			if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
-				f n not in heap:
-					heappush(heap, n)	
+					n.dist = tentative_g_score			
+					n.hop_count = currNode.hop_count + 1		
 					
-				n.prev = currNode
-
-				n.dist = tentative_g_score			
-				n.hop_count = currNode.hop_count + 1				
-				n.f_score = n.dist + self.heuristic_cost_estimate()
+					n.f_score = n.dist + self.heuristic_cost_estimate()
+					print "  " + n.getName() + "  " + str(n.f_score)
+					
+				
 		
 		end = time()
 		self.get_time(start, end)
