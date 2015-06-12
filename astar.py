@@ -1,7 +1,8 @@
 from graph_creationF import *
-from heapq import *
+from heapq2 import *
+from random import *
 import pdb
-#from Set import *
+from time import *
 
 
 class Astar(object):
@@ -9,6 +10,9 @@ class Astar(object):
 	def __init__(self):
 		self.initNode = None
 		self.goalNode = None
+		self.time = ''
+		self.cost = 0
+		seed()
 		
 	
 	# param - a Node object
@@ -17,7 +21,8 @@ class Astar(object):
 		while not last_node.prev is None:
 			last_node = last_node.prev
 			s.append(last_node.getName())
-			
+		
+		s.reverse()
 		return s
 
 		
@@ -30,7 +35,13 @@ class Astar(object):
 		print "\nWhich node is the goal node?",
 		n = raw_input()
 		return n
+		
+	def get_time(self, start, end):
+		self.time = str(end - start)
 
+		
+	def heuristic_cost_estimate(self):
+		return randint(0, 5)
 
 	def as_alg(self):
 		closedset = set()
@@ -46,28 +57,23 @@ class Astar(object):
 		#initNode = 'a'
 
 		g.getNode(self.initNode).dist = 0
+		g.getNode(self.initNode).f_score = 0
 
 		heap = []
+		
+		start = time()
+		
 		heappush(heap, g.getNode(self.initNode))
-		
-		# for i in g.nodeList:
-		  # heappush(heap, g.getNode(i))
-		  
-		  
-		  #pseudocode
-		  
-		# g_score[start] := 0    // Cost from start along best known path.
-		# // Estimated total cost from start to goal through y.
-		# f_score[start] := g_score[start] + heuristic_cost_estimate(start, goal)
-		
-		  
+
 
 		while len(heap) > 0:
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode.getName()
+#			print currNode.getName()
 			if currNode == g.getNode(self.goalNode):
-				return self.get_path(g.getNode(self.goalNode))
+				path = self.get_path(g.getNode(self.goalNode))
+				self.cost = currNode.dist
+				break
 			closedset.add(currNode)
 			
 			for n in currNode.neighbors:
@@ -76,28 +82,24 @@ class Astar(object):
 				tentative_g_score = currNode.dist + currNode.getCost(n)
 
 				
-				if n not in heap or (tentative_g_score < n.getCost(n)):	
-					if n not in heap:
-						heappush(heap, n)	
-						
-#					pdb.set_trace()	
-					n.prev = currNode
 
-					n.dist = tentative_g_score			
-					n.hop_count = currNode.hop_count + 1				
-					#pseudocode
-					#f_score[neighbor] = g_score[neighbor] + heuristic_cost_estimate(neighbor, self.goal)
-						
+
+			if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
+
+				if n not in heap:
+					heappush(heap, n)	
 					
-		# for i in g.nodeList:
-			# print str("Shortest Distance (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(g.getNode(i).dist))
+				n.prev = currNode
+
+				n.dist = tentative_g_score			
+				n.hop_count = currNode.hop_count + 1				
+				n.f_score = n.dist + self.heuristic_cost_estimate()
 		
-		# print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
-			
-		# for i in g.nodeList:
-			# p= self.get_path(g.getNode(i))
-			# print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(p), str(len(p)-1))
-			
-			
-		# for i in g.nodeList:
-			# print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))
+		end = time()
+		self.get_time(start, end)
+		
+		print "\nHops: " + str(len(path)-1)
+		print "Cost: " + str(self.cost)
+		print "Path: " + str(path)
+		print "Time: " + self.time
+		

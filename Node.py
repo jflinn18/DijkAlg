@@ -6,6 +6,7 @@ class Node(object):
 		self.neighbors = {}
 #		self.visited = False
 		self.dist = float('inf')
+		self.f_score = float('inf')
 		self.prev = None
 		self.hop_count = 0
 		
@@ -16,10 +17,6 @@ class Node(object):
 		return str(self.name) + ' connected to: ' + str([x.name for x in self.neighbors])
 		
 	def __cmp__(self, other):
-		# if self.dist < other.dist:
-			# return self
-		# else:
-			# return other
 		return cmp(self.dist, other.dist)
 		
 	def getNeighbors(self):
@@ -30,3 +27,11 @@ class Node(object):
 		
 	def getCost(self, nbr):
 		return self.neighbors[nbr]
+	
+	# neighbor is a node object
+	def removeNode(self):
+		for n in self.neighbors:
+			self.neighbors[n] = float('inf')
+			
+	def changeNeighborCost(self, neighbor):
+		self.neighbors[neighbor] = float('inf')
