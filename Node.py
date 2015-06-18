@@ -17,7 +17,7 @@ class Node(object):
 		return str(self.name) + ' connected to: ' + str([x.name for x in self.neighbors])
 		
 	def __cmp__(self, other):
-		return cmp(self.dist, other.dist)
+		return cmp(self.f_score, other.f_score)
 		
 	def getNeighbors(self):
 		return self.neighbors.keys()
