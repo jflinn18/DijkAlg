@@ -41,7 +41,8 @@ class Astar(object):
 
 		
 	def heuristic_cost_estimate(self):
-		return randint(0, 10)
+		#return 0
+		return randint(0, 20)
 
 	def as_alg(self):
 		closedset = set()
@@ -67,21 +68,23 @@ class Astar(object):
 
 
 		while len(heap) > 0:
+#			pdb.set_trace()
 			heapify(heap)
 			currNode = heappop(heap)
-#			print currNode.getName()
+			print currNode.getName()
 			if currNode == g.getNode(self.goalNode):
 				path = self.get_path(g.getNode(self.goalNode))
+				# This won't work if the graph is unweighted.
 				self.cost = currNode.dist
 				break
 			closedset.add(currNode)
-			
-			print currNode.getName()	
-#			print '\t{1:10} {2:10}'.format("n is:", "n's f")
+				
 			for n in currNode.neighbors:
 				if n in closedset:
 					continue
+
 				tentative_g_score = currNode.dist + currNode.getCost(n)
+#				pdb.set_trace()
 	
 
 				if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
@@ -90,13 +93,14 @@ class Astar(object):
 						
 					n.prev = currNode
 
-					n.dist = tentative_g_score			
-					n.hop_count = currNode.hop_count + 1		
+					n.dist = tentative_g_score		
+#					pdb.set_trace()
+
+#					n.hop_count = currNode.hop_count + 1
 					
 					n.f_score = n.dist + self.heuristic_cost_estimate()
-#					print '\t{1:10} {2:10}'.format(n.getName(), str(n.f_score))
 					
-				
+# Note: Is the printed cost the cost of the last Node? Am I updating the cost correctly for			
 		
 		end = time()
 		self.get_time(start, end)
