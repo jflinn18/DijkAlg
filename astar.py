@@ -76,7 +76,8 @@ class Astar(object):
 				break
 			closedset.add(currNode)
 			
-			print currNode.getName()			
+			print currNode.getName()	
+#			print '\t{1:10} {2:10}'.format("n is:", "n's f")
 			for n in currNode.neighbors:
 				if n in closedset:
 					continue
@@ -93,7 +94,7 @@ class Astar(object):
 					n.hop_count = currNode.hop_count + 1		
 					
 					n.f_score = n.dist + self.heuristic_cost_estimate()
-					print "  " + n.getName() + "  " + str(n.f_score)
+#					print '\t{1:10} {2:10}'.format(n.getName(), str(n.f_score))
 					
 				
 		
