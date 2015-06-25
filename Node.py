@@ -19,8 +19,8 @@ class Node(object):
 	def __cmp__(self, other):
 		return cmp(self.f_score, other.f_score)
 		
-	# def __cmp__(self, other):
-		# return cmp(self.dist, other.dist)
+	#def __cmp__(self, other):
+		#return cmp(self.dist, other.dist)
 		
 	def getNeighbors(self):
 		return self.neighbors.keys()
