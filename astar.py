@@ -71,9 +71,14 @@ class Astar(object):
 #			pdb.set_trace()
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode.getName()
-			if currNode == g.getNode(self.goalNode):
+			print currNode.getName() + "  --  " + str(currNode.f_score)
+#			pdb.set_trace()
+			if currNode.getName() == g.getNode(self.goalNode).getName():
+				# print currNode
+				# print self.goalNode
+				# pdb.set_trace()
 				path = self.get_path(g.getNode(self.goalNode))
+				
 				# This won't work if the graph is unweighted.
 				self.cost = currNode.dist
 				break
