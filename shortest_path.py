@@ -4,14 +4,14 @@ from DPRRS import *
 from HotPotato import *
 
 
+def run():
+    da = DijkstraAlgorithmH()
+    aa = Astar()
+    dprrs = DPRRS()
+    hp = HotPotato()
 
-da = DijkstraAlgorithmH()
-aa = Astar()
-dprrs = DPRRS()
-hp = HotPotato()
 
-
-while True:
+    while True:
 	print "Which Algorithm would you like to run?",
 	resp = raw_input()
 	if resp[0] == 'a' or resp[0] == 'A':
@@ -28,3 +28,6 @@ while True:
 		break
 	else:
 		continue
+
+# for the unautomated program. Comment out to automate it
+run()
