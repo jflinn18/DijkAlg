@@ -28,7 +28,7 @@ def get_file():
 
 
 g = Graph()
-get_file()
+#get_file()
 
 # for v in g:
 	# for w in v.getNeighbors():

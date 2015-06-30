@@ -2,6 +2,7 @@ from DijkstraAlgorithmH import *
 from Astar import *
 from DPRRS import *
 from HotPotato import *
+import graph_creationF
 
 
 def run():
@@ -12,6 +13,7 @@ def run():
 
 
     while True:
+        graph_creationF.get_file()
 	print "Which Algorithm would you like to run?",
 	resp = raw_input()
 	if resp[0] == 'a' or resp[0] == 'A':
@@ -30,4 +32,4 @@ def run():
 		continue
 
 # for the unautomated program. Comment out to automate it
-run()
+#run()

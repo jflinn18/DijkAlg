@@ -6,14 +6,20 @@ while True:
     if infile[-4:] == '.txt':
         break
 
-regex = re.compile(r"Hops.*")
+hops_regex = re.compile(r"Hops.*")
+path_regex = re.compile(r"Path.*")
 fin = open(infile, 'r')
+fout = open("parsed_text.txt", 'wb')
 
 for line in fin:
-    m = re.search(regex, line)
+    m = re.search(hops_regex, line)
     if m is not None: 
-        print m.group()
+        fout.write(m.group() + '\n')
+    n = re.search(path_regex, line)
+    if n is not None:
+        fout.write(n.group() + '\n')
     
     
 fin.close()
+fout.close()
 
