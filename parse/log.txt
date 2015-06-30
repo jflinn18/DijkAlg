@@ -1,0 +1,11 @@
+Enter graph file: Do you want to create a weighted Graph? Which Algorithm would you like to run? 
+Which node is the starting node? 
+Which node is the goal node? 0  --  0
+19  --  5
+8  --  6
+10  --  6
+
+Hops: 2
+Cost: 5
+Path: ['0', '19', '10']
+Time: 0.00052809715271

@@ -10,6 +10,7 @@ if walg[0] == 'a':
 i = 0
 
 fout = open("input" + resp + ".txt", 'wb')
+fout.write(resp + '\n')
 
 while i < int(resp):
   fout.write(wgraph + '\n')
