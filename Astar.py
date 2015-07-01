@@ -39,6 +39,11 @@ class Astar(object):
 	def get_time(self, start, end):
 		self.time = str(end - start)
 
+        def in_heap(self, heap, node):
+                for n in heap:
+                        if n.getName() == node.getName():
+                                return True
+                return False
 		
 	def heuristic_cost_estimate(self):
 		#return 0
@@ -63,6 +68,7 @@ class Astar(object):
 		heap = []
 		
 		start = time()
+                path = None
 		
 		heappush(heap, g.getNode(self.initNode))
 
@@ -71,7 +77,7 @@ class Astar(object):
 #			pdb.set_trace()
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode.getName() + "  --  " + str(currNode.f_score)
+			print currNode
 #			pdb.set_trace()
 			if currNode.getName() == g.getNode(self.goalNode).getName():
 				# print currNode
@@ -89,11 +95,11 @@ class Astar(object):
 					continue
 
 				tentative_g_score = currNode.dist + currNode.getCost(n)
-#				pdb.set_trace()
+				#pdb.set_trace()
 	
-
-				if n not in heap or (tentative_g_score < n.dist and n.dist != float("inf")):
-					if n not in heap:
+                                #how does this compare n to the objects in the heap?
+				if not self.in_heap(heap, n) or (tentative_g_score < n.dist and n.dist != float("inf")):
+					if not self.in_heap(heap, n):
 						heappush(heap, n)	
 						
 					n.prev = currNode
@@ -110,7 +116,14 @@ class Astar(object):
 		end = time()
 		self.get_time(start, end)
 		
-		print "\nHops: " + str(len(path)-1)
+                # Running input100.txt will not assign path before it is referenced
+                hops = 0
+                if path is None:
+                        path = "Goal Node not found"
+                else:
+                        hops = len(path) - 1
+                        
+		print "\nHops: " + str(hops)
 		print "Cost: " + str(self.cost)
 		print "Path: " + str(path)
 		print "Time: " + self.time
