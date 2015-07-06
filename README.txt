@@ -18,3 +18,9 @@ autosim.py:
    input directory. It will then store the parsed output by the input file 
    names in the parsed directory. 
 
+
+parser.py:
+   This program parses through huge text files looking for one of three things. 
+   The program asks for a file name to parse through. Then it askes the user for
+   three regular expressions to look for in the file. It outputs these to a file
+
