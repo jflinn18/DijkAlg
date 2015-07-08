@@ -12,8 +12,7 @@ if sys.argv[1] == '-u':
 
   if walg[0] == 'a':
     goal_node = raw_input("Goal Node: ")
-
-  random_range = raw_input("Enter the random range: ")
+    random_range = raw_input("Enter the random range: ")
 
 else:
   random.seed()
@@ -23,19 +22,21 @@ else:
   weighted = 'y'
   walg = 'a'
   init_node = str(random.randint(0, 40))
-  goal_node = str(random.randint(0, 40))
 
-  while goal_node == init_node:
+  if walg[0] == 'a':
     goal_node = str(random.randint(0, 40))
+
+    while goal_node == init_node:
+      goal_node = str(random.randint(0, 40))
 
 #for now, with an unweighted graph, 2 is double the weight. 
 #  We are planning on using the average of the hop counts
 
 #Then we hopefully will be able to translate that math into the weighted graphs.
-  if weighted == 'y':
-    random_range = '10'
-  else:
-    random_range = '2'
+    if weighted == 'y':
+      random_range = '10'
+    else:
+      random_range = '2'
 
 i = 0
 w = ''
