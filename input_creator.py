@@ -24,14 +24,22 @@ else:
   walg = 'a'
   init_node = str(random.randint(0, 40))
   goal_node = str(random.randint(0, 40))
-  random_range = '10'
 
   while goal_node == init_node:
     goal_node = str(random.randint(0, 40))
 
+#for now, with an unweighted graph, 2 is double the weight. 
+#  We are planning on using the average of the hop counts
+
+#Then we hopefully will be able to translate that math into the weighted graphs.
+  if weighted == 'y':
+    random_range = '10'
+  else:
+    random_range = '2'
+
 i = 0
 
-fout = open("DijkAlg/input/input" + init_node + "and" + goal_node + ".txt", 'wb')
+fout = open("input/input" + init_node + "and" + goal_node + ".txt", 'wb')
 fout.write(resp + '\n')
 
 while i < int(resp):

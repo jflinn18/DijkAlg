@@ -9,7 +9,7 @@ while i < int(resp):
     i = i + 1
     
 
-dir = os.listdir('DijkAlg/input')
+dir = os.listdir('input')
 
 count = 0
 for file in dir:
