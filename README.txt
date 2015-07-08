@@ -25,3 +25,25 @@ parser.py:
    The program asks for a file name to parse through. Then it askes the user for
    three regular expressions to look for in the file. It outputs these to a file
 
+
+input_creator.py:
+   Args:
+	-u: has the user input what is to be written to the file
+	-c: has the computer use the default settings and write them to a file
+	default: -c
+
+   This creates a .txt file that will be able to be used in the DijkAlg/Auto.py
+   program. There are varibles that need to be changed in order to change the 
+   input of the algorithm program
+
+      resp: number of times you want DijkAlg/Auto.py to run
+      wgraph: the graph that you want the algorithm to run on
+      walg: the algorithm that you want to run (Node obj is only set up for A*)
+      init_node: the range in the random.randint() must be the number of nodes
+                 in your graph. Or a list of the names
+      goal_node: the same as above
+
+
+autoinput.py:
+   This creates k number of input files to run through the algorithm. k is given
+   by the user. 
