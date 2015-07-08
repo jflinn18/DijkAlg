@@ -12,6 +12,7 @@ class Astar(object):
 		self.goalNode = None
 		self.time = ''
 		self.cost = 0
+                self.random_range = None
 		seed()
 		
 	
@@ -32,9 +33,17 @@ class Astar(object):
 		return n
 		
 	def input_goalNode(self):
-		print "\nWhich node is the goal node?",
+		print "Which node is the goal node?",
 		n = raw_input()
 		return n
+                
+        def input_range(self):
+                resp = raw_input("Enter upper bound for random range: ")
+                try:
+                        return int(resp)
+                except ValueError:
+                        print "Please enter an int"
+                        self.input_range()
 		
 	def get_time(self, start, end):
 		self.time = str(end - start)
@@ -47,7 +56,7 @@ class Astar(object):
 		
 	def heuristic_cost_estimate(self):
 		#return 0
-		return randint(0, 20)
+                return randint(0, self.random_range)
 
 	def as_alg(self):
 		closedset = set()
@@ -55,6 +64,7 @@ class Astar(object):
 		while True:
 			self.initNode = self.input_initNode()
 			self.goalNode = self.input_goalNode()
+                        self.random_range = self.input_range()
 			if self.goalNode in g.nodeList.keys() and self.initNode in g.nodeList.keys():
 				break
 
@@ -77,7 +87,7 @@ class Astar(object):
 #			pdb.set_trace()
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode
+#			print currNode
 #			pdb.set_trace()
 			if currNode.getName() == g.getNode(self.goalNode).getName():
 				# print currNode

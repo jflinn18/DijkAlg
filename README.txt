@@ -1,6 +1,7 @@
 shortest_path.py:
    This is the program that will run different search algorithms on the given 
-   the graph. 
+   the graph. To run this program, run Auto.py without a console command for 
+   input from a file.
    
    #Note: the Node.py object is only set up to run A* Algorithm. 
 
@@ -10,7 +11,7 @@ Auto.py:
    This program will run shortest_path.py 'n' number of times. To utilize this
    the best, give it a file of input and output the data to a file
    
-   #Example: "python Auto.py < input/input28and19.txt > parse/log.txt"
+   #Example: "python Auto.py < input/input28and19.txt > log.txt"
 
 
 autosim.py:
