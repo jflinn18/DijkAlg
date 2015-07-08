@@ -10,16 +10,16 @@ def run():
     aa = Astar()
     dprrs = DPRRS()
     hp = HotPotato()
+#    gc = graph_creationF()
 
 
     while True:
-        graph_creationF.get_file()
-	print "Which Algorithm would you like to run?",
-	resp = raw_input()
+	resp = raw_input("Which Algorithm would you like to run? ")
+        graph_creationF.get_file(resp[0])
 	if resp[0] == 'a' or resp[0] == 'A':
 		aa.as_alg()		
 		break
-	elif resp == 'dprrs' or resp[0] == 'DPRRS':
+	elif resp == 'dprrs' or resp == 'DPRRS':
 		dprrs.dprrs_alg()
 		break
 	elif resp[0] == 'h' or resp[0] == 'H':

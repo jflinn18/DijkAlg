@@ -6,11 +6,12 @@ class Graph(object):
 	def __init__(self):
 		self.nodeList = {}
 		self.numNode = 0
+                self.alg = ''
 		
 		
 	def addNode(self, key):
 		self.numNode = self.numNode + 1
-		newNode = Node(key)
+		newNode = Node(key, self.alg)
 		self.nodeList[key] = newNode
 		return newNode
 		

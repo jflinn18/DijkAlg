@@ -1,7 +1,7 @@
 #class Node:    ---Python3
 class Node(object):
 
-	def __init__(self, key):
+	def __init__(self, key, alg_type):
 		self.name = key;
 		self.neighbors = {}
 #		self.visited = False
@@ -9,15 +9,22 @@ class Node(object):
 		self.f_score = float('inf')
 		self.prev = None
 		self.hop_count = 0
+                self.alg = alg_type
 		
 	def addNeighbor(self, nbr, cost=0):
 		self.neighbors[nbr] = cost
 		
 	def __str__(self):
 		return str(self.name) + ' connected to: ' + str([x.name for x in self.neighbors])
-		
-	def __cmp__(self, other):
-		return cmp(self.f_score, other.f_score)
+	
+        def __cmp__(self, other):
+                if self.alg == 'a':
+                        return cmp(self.f_score, other.f_score)
+                else:
+                        return cmp(self.dist, other.dist)
+	
+	#def __cmp__(self, other):
+		#return cmp(self.f_score, other.f_score)
 		
 	#def __cmp__(self, other):
 		#return cmp(self.dist, other.dist)

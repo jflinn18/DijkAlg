@@ -54,7 +54,7 @@ class DijkstraAlgorithmH(object):
 		while len(heap) > 0:
 			heapify(heap)
 			currNode = heappop(heap)
-			print currNode
+			#print currNode
 			for n in currNode.neighbors:
 				if n.dist > currNode.dist + currNode.getCost(n) or (n.dist == currNode.dist + currNode.getCost(n) and n.hop_count > currNode.hop_count + 1):
 					n.dist = currNode.dist + currNode.getCost(n)

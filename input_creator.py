@@ -1,20 +1,21 @@
 import random
 import sys
 
-#sys.argv[1] could be either -u or -c. -u is for 'user' and -c is for 'computer'
+#sys.argv[1] could be -u which means 'user'
 
-if sys.argv[1] == '-u':
-  resp = raw_input("How many iterations would you like to do? ")
-  wgraph = raw_input("Enter graph file: ")
-  weighted = raw_input("Do you want to create a weighted graph? ")
-  walg = raw_input("Which algorithm will you be using? ")
-  init_node = raw_input("Starting Node: ")
+try:
+  if sys.argv[1] == '-u':
+    resp = raw_input("How many iterations would you like to do? ")
+    walg = raw_input("Which algorithm will you be using? ")
+    wgraph = raw_input("Enter graph file: ")
+    weighted = raw_input("Do you want to create a weighted graph? ")
+    init_node = raw_input("Starting Node: ")
 
-  if walg[0] == 'a':
-    goal_node = raw_input("Goal Node: ")
-    random_range = raw_input("Enter the random range: ")
+    if walg[0] == 'a':
+      goal_node = raw_input("Goal Node: ")
+      random_range = raw_input("Enter the random range: ")
 
-else:
+except:
   random.seed()
 
   resp = str(1000)
@@ -50,9 +51,10 @@ fout = open("input/" + init_node + "and" + goal_node + "_" + gr[1] + "_" + w + "
 fout.write(resp + '\n')
 
 while i < int(resp):
+  fout.write(walg + '\n')
   fout.write(wgraph + '\n')
   fout.write(weighted + '\n')
-  fout.write(walg + '\n')
+
   fout.write(init_node + '\n')
   if walg[0] == 'a':
     fout.write(goal_node + '\n')
