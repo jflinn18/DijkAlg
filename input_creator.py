@@ -38,8 +38,14 @@ else:
     random_range = '2'
 
 i = 0
+w = ''
 
-fout = open("input/input" + init_node + "and" + goal_node + ".txt", 'wb')
+gr = wgraph.split("_")
+if weighted == 'y':
+  w = 'w'
+else:
+  w = 'uw'
+fout = open("input/" + init_node + "and" + goal_node + "_" + gr[1] + "_" + w + "_rr" + random_range + ".txt", 'wb')
 fout.write(resp + '\n')
 
 while i < int(resp):

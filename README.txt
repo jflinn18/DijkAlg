@@ -47,3 +47,10 @@ input_creator.py:
 autoinput.py:
    This creates k number of input files to run through the algorithm. k is given
    by the user. 
+
+
+pathstats.py: takes the a file with just the paths that have been taken. It
+   	      compiles a list of data from that file and outputs in the
+	      console.
+	      To keep track of these outputs, write the outputed data to a
+	      file manaully from the console.

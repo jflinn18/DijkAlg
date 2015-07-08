@@ -1,10 +1,15 @@
 import re
+import sys
 
-
-while True:
-    infile = raw_input("What file would you like to parse? ")
-    if infile[-4:] == '.txt':
-        break
+try:
+    if sys.argv[1] == '-f':
+        if sys.argv[2][-4:] == '.txt':
+            infile = sys.argv[2]
+except IndexError:
+    while True:
+        infile = raw_input("What file would you like to parse? ")
+        if infile[-4:] == '.txt':
+            break
 
 #hops_regex = re.compile(r"Hops.*")
 #path_regex = re.compile(r"Path.*")
