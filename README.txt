@@ -54,3 +54,8 @@ pathstats.py: takes the a file with just the paths that have been taken. It
 	      console.
 	      To keep track of these outputs, write the outputed data to a
 	      file manaully from the console.
+
+
+autoheur.py: this automatically runs one instance of an input file. This is to
+	     used to test heuristcs one at a time. It requires one input file. 
+	     However, do not include the input/ directory.
