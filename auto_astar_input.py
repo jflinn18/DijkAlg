@@ -1,4 +1,5 @@
 import os
+import pdb
 
 
 wgraph = raw_input("Enter a graph file: ")
@@ -16,15 +17,17 @@ else:
 
 
 heur_count = 0
-init_node_count = 0
-goal_node_count = 0
 
 while heur_count < 16:
+    init_node_count = 0
     while init_node_count < num_nodes:
+        goal_node_count = 0
         while goal_node_count < num_nodes:
             files = os.listdir('input/astar')
-            f = 'input/astar/' + str(init_node_count) + 'and' + str(goal_node_count) + '_' + 'n' + str(num_nodes) + '_' + w + '_rr' + str(heur_count) + '.txt'
-            if not f in files:
+            f = 'input/astar/n'+ str(num_nodes) + '/'  + str(init_node_count) + 'and' + str(goal_node_count)  + '_' + w + '_rr' + str(heur_count) + '.txt'
+            if f in files:
+                continue
+            else:
                 fout = open(f, 'wb')
 
                 fout.write('a\n')
