@@ -9,7 +9,7 @@ i = 0;
 g = wgraph.split('_')
 
 while i < int(num_nodes):
-    fout = open('input/dijk/'+ g + '/' + str(i) + '_' +  g[1] + '_' + weighted + '.txt' , 'wb')
+    fout = open('input/dijk/'+ g[1] + '/' + str(i) + '_' +  g[1] + '_' + weighted + '.txt' , 'wb')
 
     fout.write('d\n')
     fout.write(wgraph + '\n')

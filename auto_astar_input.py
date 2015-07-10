@@ -24,19 +24,21 @@ while heur_count < 16:
         while goal_node_count < num_nodes:
             files = os.listdir('input/astar')
             f = 'input/astar/' + str(init_node_count) + 'and' + str(goal_node_count) + '_' + 'n' + str(num_nodes) + '_' + w + '_rr' + str(heur_count) + '.txt'
-            if f not in files:
+            if not f in files:
                 fout = open(f, 'wb')
 
                 fout.write('a\n')
                 fout.write(wgraph + '\n')
                 fout.write(weighted + '\n')
-                fout.write(init_node_count + 'n')
-                fout.write(goal_node_count + 'n')
-                fout.write(heur_count + '/n')
+                fout.write(str(init_node_count) + 'n')
+                fout.write(str(goal_node_count) + 'n')
+                fout.write(str(heur_count) + '/n')
 
                 fout.close()
 
 
-                init_node_count += 1
-                goal_node_count += 1
-                heur_count += 1
+            goal_node_count += 1
+        
+        init_node_count += 1
+
+    heur_count += 1
