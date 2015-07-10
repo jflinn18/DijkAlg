@@ -1,4 +1,6 @@
-d
+a
 graphs/gr_n40_d2.txt
 n
-15
+0
+1
+2
