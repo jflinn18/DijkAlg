@@ -68,12 +68,17 @@ class DijkstraAlgorithmH(object):
 		end = time()
 		self.get_time(start, end)
 		
-		print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
+		#print '\n{0:12} {1:7} {3:7} {2:10}'.format('Start/End:', 'Cost:', 'Path:', 'Hops:')
 			
 		for i in g.nodeList:
-			self.get_path(g.getNode(i))
-			print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(self.path), str(len(self.path)-1))
+                        self.get_path(g.getNode(i))
+                        print '('+self.initNode+','+g.getNode(i).getName()+')'
+                        print "Cost: " + str(g.getNode(i).dist)
+                        print "Hops: " + str(len(self.path)-1)
+                        print "Path: " + str(self.path)
+
+                #for i in g.nodeList:
+			#self.get_path(g.getNode(i))
+			#print '{0:12} {1:7} {3:7} {2:10}'.format('('+self.initNode+','+g.getNode(i).getName()+')', str(g.getNode(i).dist), str(self.path), str(len(self.path)-1))
 			
 		print "\n" + self.time
-		# for i in g.nodeList:
-			# print "Shortest Path (" + self.initNode + "," + g.getNode(i).getName() + ")"+ " --- " + str(self.get_path(g.getNode(i)))

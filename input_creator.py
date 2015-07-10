@@ -5,7 +5,7 @@ import sys
 
 try:
   if sys.argv[1] == '-u':
-    resp = raw_input("How many iterations would you like to do? ")
+    #resp = raw_input("How many iterations would you like to do? ")
     walg = raw_input("Which algorithm will you be using? ")
     wgraph = raw_input("Enter graph file: ")
     weighted = raw_input("Do you want to create a weighted graph? ")
@@ -18,10 +18,10 @@ try:
 except:
   random.seed()
 
-  resp = str(1000)
+  #resp = str(1000)
   wgraph = "graphs/gr_n40_d2.txt"
-  weighted = 'y'
-  walg = 'a'
+  weighted = 'n'
+  walg = 'd'
   init_node = str(random.randint(0, 40))
 
   if walg[0] == 'a':
@@ -39,29 +39,40 @@ except:
     else:
       random_range = '2'
 
-i = 0
-w = ''
+#i = 0
+#w = ''
 
 gr = wgraph.split("_")
 if weighted == 'y':
   w = 'w'
 else:
   w = 'uw'
-fout = open("input/" + init_node + "and" + goal_node + "_" + gr[1] + "_" + w + "_rr" + random_range + ".txt", 'wb')
-fout.write(resp + '\n')
 
-while i < int(resp):
+if walg == 'a':
+  fout = open("input/astar/" + init_node + "and" + goal_node + "_" + gr[1] + "_" + w + "_rr" + random_range + ".txt", 'wb')
+  #fout.write(resp + '\n')
+
+  #while i < int(resp):
   fout.write(walg + '\n')
   fout.write(wgraph + '\n')
   fout.write(weighted + '\n')
-
   fout.write(init_node + '\n')
-  if walg[0] == 'a':
-    fout.write(goal_node + '\n')
+  fout.write(goal_node + '\n')
   fout.write(random_range + '\n')
-
-  i = i + 1
-
-fout.close()
   
+  fout.close()
+
+elif walg == 'd':
+  fout = open("input/dijk/" + init_node+ "_" + gr[1] + "_" + w  + ".txt", 'wb')
+  #fout.write(resp + '\n')
+
+  #while i < int(resp):
+  fout.write(walg + '\n')
+  fout.write(wgraph + '\n')
+  fout.write(weighted + '\n')
+  fout.write(str(init_node) + '\n')
   
+  fout.close()
+
+else:
+  print 'Unrecognizable algorithm\n'
