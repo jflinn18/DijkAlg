@@ -28,13 +28,12 @@ class Astar(object):
 
 		
 	def input_initNode(self):
-		print "\nWhich node is the starting node?",
-		n = raw_input()
+		print "\n"
+		n = raw_input("Which node is the starting node? ")
 		return n
 		
 	def input_goalNode(self):
-		print "Which node is the goal node?",
-		n = raw_input()
+		n = raw_input("Which node is the goal node? ")
 		return n
                 
         def input_range(self):

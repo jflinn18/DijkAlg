@@ -39,7 +39,8 @@ while heur_count < 16:
                 fout.write(weighted + '\n')
                 fout.write(str(init_node_count) + '\n')
                 fout.write(str(goal_node_count) + '\n')
-                fout.write(str(heur_count) + '\n')
+                fout.write(str(heur_count))
+                #fout.write(str(heur_count) + '\n')
 
                 fout.close()
 

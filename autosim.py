@@ -21,7 +21,12 @@ dirs = os.listdir(directory)
 
 for f in dirs:
     i = 0
-    os.system('python Auto.py -f ' + directory + '/' + f + ' > log.txt')
+    try:
+        os.system('python Auto.py -f ' + directory + '/' + f + ' > log.txt')
+    except:
+        print "-----EOFError-----"
+        print directory + '/' + f
+
     os.system('mv log.txt data/' + alg[1] + '/' + alg[-1] + '/rawdata_0/' + f)
 
 end = time()
