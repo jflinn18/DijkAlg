@@ -31,4 +31,4 @@ for f in dirs:
 
 end = time()
 
-print 'Time: ' + str(start-end)
+print 'Time: ' + str(end - start)
