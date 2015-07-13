@@ -13,6 +13,9 @@ Auto.py:
    
    #Example: "python Auto.py < input/input28and19.txt > log.txt"
 
+   #Note: This will only work for one input file. To run multiple files, run 
+   	  autosim.py
+
 
 autosim.py:
    This program will run Auto.py with all of the different input files in the 

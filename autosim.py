@@ -1,13 +1,29 @@
 import os
 import pdb
+from time import *
 
-dir = os.listdir("input/auto_input/")
+while True:
+    directory = raw_input('Enter the input directory: ')
+    if directory[:5] == 'input':
+        break
+    else:
+        print 'Try Again...'
+    
+start = time()
 
-for f in dir:
-    os.system("python Auto.py < input/auto_input/" + f + " > log.txt")
-    #pdb.set_trace()
-    os.system("python parser.py -f log.txt < parser_input.txt")
-    #pdb.set_trace()
+if directory[-1:] == '/':
+    directory = directory[:-1]
+        
 
-    os.system("mv parsed.txt data/rawdata/" + f)
+alg = directory.split('/')
 
+dirs = os.listdir(directory)
+
+for f in dirs:
+    i = 0
+    os.system('python Auto.py -f ' + directory + '/' + f + ' > log.txt')
+    os.system('mv log.txt data/' + alg[1] + '/' + alg[-1] + '/rawdata_0/' + f)
+
+end = time()
+
+print 'Time: ' + str(start-end)

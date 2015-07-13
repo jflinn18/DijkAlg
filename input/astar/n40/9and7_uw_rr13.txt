@@ -1,4 +1,0 @@
-a
-graphs/gr_n40_d2.txt
-n
-9n7n13/n
