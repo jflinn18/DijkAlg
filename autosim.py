@@ -22,7 +22,7 @@ dirs = os.listdir(directory)
 for f in dirs:
     i = 0
     try:
-        os.system('python Auto.py -f ' + directory + '/' + f + ' > log.txt')
+        os.system('python shortest_path.py -f ' + directory + '/' + f + ' -i 1000 > log.txt')
     except:
         print "-----EOFError-----"
         print directory + '/' + f

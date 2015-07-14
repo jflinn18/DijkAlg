@@ -5,8 +5,8 @@ from time import *
 
 class DijkstraAlgorithmH(object):
 	
-	def __init__(self):
-		self.initNode = None
+	def __init__(self, init_node):
+		self.initNode = init_node
 		self.time = ''
 		self.path = ''
 	
@@ -31,12 +31,13 @@ class DijkstraAlgorithmH(object):
 	def get_time(self, start, end):
 		self.time = "\nTime:" + str(end - start)
 
-	def dijk_alg(self):	
+	def dijk_alg(self, g):	
 
-		while True:
-			self.initNode = self.input_initNode()
-			if self.initNode in g.nodeList.keys():
-				break
+                if self.initNode == None:
+                        while True:
+                                self.initNode = self.input_initNode()
+                                if self.initNode in g.nodeList.keys():
+                                        break
 
 		
 		#initNode = 'a'

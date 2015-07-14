@@ -1,4 +1,4 @@
-from graph_creationF import *
+#from graph_creationF import *
 from heapq2 import *
 from random import *
 import pdb
@@ -7,14 +7,20 @@ from time import *
 
 class Astar(object):
 	
-	def __init__(self):
-		self.initNode = None
-		self.goalNode = None
+	def __init__(self, init_node, goal_node, rr):
+		self.initNode = init_node
+		self.goalNode = goal_node
+                self.random_range = int(rr)
 		self.time = ''
 		self.cost = 0
-                self.random_range = None
 		seed()
 		
+
+        def init():
+                self.initNode = init_node
+                self.goal = goal_node
+                self.random_range = int(rr)
+                
 	
 	# param - a Node object
 	def get_path(self, last_node):
@@ -57,42 +63,46 @@ class Astar(object):
 		#return 0
                 return randint(0, self.random_range)
 
-	def as_alg(self):
+	def as_alg(self, graph):
 		closedset = set()
+                
+                #pdb.set_trace()
 
-		while True:
-			self.initNode = self.input_initNode()
-			self.goalNode = self.input_goalNode()
-                        self.random_range = self.input_range()
-			if self.goalNode in g.nodeList.keys() and self.initNode in g.nodeList.keys():
-				break
+                if self.initNode == None or self.goalNode == None:
+                        while True:
+                                self.initNode = self.input_initNode()
+                                self.goalNode = self.input_goalNode()
+                                self.random_range = self.input_range()
+                                if self.goalNode in graph.nodeList.keys() and self.initNode in graph.nodeList.keys():
+                                        break
 
 
 		
 		#initNode = 'a'
 
-		g.getNode(self.initNode).dist = 0
-		g.getNode(self.initNode).f_score = 0
+		graph.getNode(self.initNode).dist = 0
+		graph.getNode(self.initNode).f_score = 0
 
 		heap = []
 		
 		start = time()
                 path = None
 		
-		heappush(heap, g.getNode(self.initNode))
+		heappush(heap, graph.getNode(self.initNode))
 
 
 		while len(heap) > 0:
-#			pdb.set_trace()
+			#pdb.set_trace()
 			heapify(heap)
 			currNode = heappop(heap)
-#			print currNode
-#			pdb.set_trace()
-			if currNode.getName() == g.getNode(self.goalNode).getName():
+			#print currNode
+			#pdb.set_trace()
+                        if currNode.getName() == graph.getNode(self.goalNode).getName():
+                                
 				# print currNode
 				# print self.goalNode
 				# pdb.set_trace()
-				path = self.get_path(g.getNode(self.goalNode))
+				path = self.get_path(graph.getNode(self.goalNode))
 				
 				# This won't work if the graph is unweighted.
 				self.cost = currNode.dist

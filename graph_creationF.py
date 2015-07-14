@@ -1,37 +1,38 @@
 from Graph import *
+import pdb
               
+
+class graph_creationF(object):
+
+    def __init__(self, weighted, wgraph):
+        self.fname = wgraph
+        self.wg = weighted
+        self.g = Graph()
   
-def get_file(which_alg):
-        g.alg = which_alg
+    def get_file(self, which_alg):
+        self.g.alg = which_alg
         try:
-                print "Enter graph file:",
-                fname = raw_input()
+            #self.fname = raw_input("Enter graph file: ")
+            #self.wg = raw_input("Do you want to create a weighted Graph? ")
 
-                print "Do you want to create a weighted Graph?",
-                wg = raw_input()
+            file = open(self.fname, 'r')
 
-                file = open(fname, 'r')
+            if self.wg[0] == 'y' or self.wg[0] == 'Y':
+                for line in file:
+                    s = line.split()
+                    self.g.addEdge(s[0], s[1], int(s[2]))
 
-                if wg[0] == 'y' or wg[0] == 'Y':
-                        for line in file:
-                                s = line.split()
-                                g.addEdge(s[0], s[1], int(s[2]))
+            elif self.wg[0] == 'n' or self.wg[0] == 'N':
+                for line in file:
+                    s = line.split()
+                    self.g.addEdge(s[0], s[1], 1)
 
-                elif wg[0] == 'n' or wg[0] == 'N':
-                        for line in file:
-                                s = line.split()
-                                g.addEdge(s[0], s[1], 1)
+            file.close()
 
-                file.close()
+            return self.g
         except:
-                print "---File does not exist---"
-                get_file()
+            print "-----Graph File does not exist-----"
+            #self.get_file(which_alg)
 		
 
-
-g = Graph()
 #get_file()
-
-# for v in g:
-	# for w in v.getNeighbors():
-		# print "( %s , %s )" % (v.getName(), w.getName())
