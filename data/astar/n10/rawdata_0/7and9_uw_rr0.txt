@@ -1,0 +1,5000 @@
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.72340393066e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.39097595215e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.72340393066e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.89301300049e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.22272491455e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.29832458496e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.41345977783e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.08374786377e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.08238983154e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.07967376709e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.00814819336e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.00814819336e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.41345977783e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000147104263306
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000168085098267
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.50882720947e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.48498535156e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.89301300049e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.89301300049e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.82012939453e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.01086425781e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.58171081543e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.58171081543e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.41617584229e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.29696655273e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000158071517944
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.01086425781e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000117063522339
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.48498535156e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000135183334351
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.50882720947e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000114917755127
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.9168548584e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000130176544189
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102043151855
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00025200843811
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.9168548584e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.60826873779e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.89437103271e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.67979431152e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000116109848022
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000113010406494
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000128984451294
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000177145004272
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000150918960571
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000200986862183
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000281810760498
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00011682510376
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.89437103271e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000137805938721
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.29560852051e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.6784362793e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.72340393066e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.72340393066e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000642061233521
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000478982925415
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000200986862183
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.98430633545e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000228881835938
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.08374786377e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.29560852051e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000195026397705
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.38961791992e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.29560852051e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.38961791992e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.07967376709e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.07967376709e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.07967376709e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.98430633545e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.98430633545e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00010085105896
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.20159912109e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000113010406494
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000128030776978
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000115871429443
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.9168548584e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.00814819336e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000228881835938
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.60826873779e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.50882720947e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.31809234619e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000126123428345
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.07967376709e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.98430633545e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000111818313599
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.3936920166e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.29832458496e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00019907951355
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102043151855
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.9168548584e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000227928161621
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.67707824707e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000128984451294
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.58171081543e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.01086425781e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.48498535156e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.39097595215e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.31809234619e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.39097595215e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.29832458496e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000301837921143
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.29425048828e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000210046768188
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.38961791992e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.08374786377e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000185966491699
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000232934951782
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000253915786743
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000331878662109
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.48498535156e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000190019607544
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000500202178955
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.29696655273e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.98838043213e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000159025192261
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00012993812561
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00010085105896
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.67979431152e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000140190124512
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000130891799927
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.0001540184021
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000360012054443
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.00017786026001
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000180959701538
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000200986862183
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000257015228271
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000158071517944
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000217914581299
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000535011291504
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.98838043213e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000101089477539
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000617027282715
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.41753387451e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000188112258911
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000184059143066
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.82148742676e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.72340393066e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.19888305664e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.50882720947e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.29560852051e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.88893890381e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.48770141602e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.39233398438e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000324964523315
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.17911529541e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000121831893921
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.60691070557e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.51154327393e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.89301300049e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000137805938721
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.01086425781e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.58171081543e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.70092010498e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.9870223999e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.60555267334e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.5101852417e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.79628753662e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.48634338379e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.70227813721e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.10623168945e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.5803527832e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.91549682617e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.08103179932e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.48498535156e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.20295715332e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.10487365723e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.89301300049e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.79764556885e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.00950622559e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.29560852051e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.89165496826e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.01222229004e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 7.20024108887e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.29832458496e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.98566436768e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.79492950439e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.29832458496e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.91413879395e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.69956207275e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.89029693604e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 8.58306884766e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.60419464111e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.103515625e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.22272491455e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.00814819336e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 5.98430633545e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['7', '9']
+Time: 6.8187713623e-05

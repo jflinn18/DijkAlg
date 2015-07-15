@@ -2,16 +2,21 @@ import os
 import multiprocessing as mp
 import pdb
 from time import *
+import Queue
+import threading
 
 
 def run_auto(f):
     try:
-        os.system('python Auto.py -f ' + directory + '/' + f + ' > log.txt')
+        os.system('python shortest_path.py -f ' +  directory + '/' + f + ' -i 1000 > data/' + alg[1] + '/' + alg[-1] + '/rawdata_0/' + f)
+
     except:
-        print "-----EOFError-----"
+        print "-----Error-----"
         print directory + '/' + f
 
-    os.system('mv log.txt data/' + alg[1] + '/' + alg[-1] + '/rawdata_0/' + f)
+  
+
+    return directory + '/' + f + '   -----Done-----'
 
 
 
@@ -35,12 +40,17 @@ alg = directory.split('/')
 
 dirs = os.listdir(directory)
 
-#pool = mp.Pool(processes = 4)
+pool = mp.Pool(processes = len(dirs))
 #[pool.map(run_auto, f) for f in dirs]
-#results = [pool.apply_async(run_auto, args=(f,)) for f in dirs]
+results = [pool.apply_async(run_auto, args=(f,)) for f in dirs]
+#[pool.apply_async(run_auto, args=(f,)) for f in dirs]
 #output = (p.get() for p in results)
-    
+
+
 
 end = time()
+
+for r in results:
+    print r
 
 print 'Time: ' + str(end - start)

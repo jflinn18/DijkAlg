@@ -20,7 +20,7 @@ heur_count = 0
 
 while heur_count < 16:
     init_node_count = 0
-    while init_node_count < num_nodes:
+    while init_node_count < num_nodes - 1:
         goal_node_count = 0
         while goal_node_count < num_nodes:
             if init_node_count == goal_node_count:

@@ -1,0 +1,5000 @@
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000168085098267
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00020694732666
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000196933746338
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001540184021
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000147819519043
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000151872634888
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000147104263306
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000164985656738
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000116109848022
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000380039215088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111818313599
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000114917755127
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000168085098267
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000194787979126
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000130891799927
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00019097328186
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000127077102661
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.91821289062e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00012993812561
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140190124512
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000176906585693
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000101089477539
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000143051147461
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000225067138672
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000160932540894
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000145196914673
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000173091888428
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000239133834839
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000202894210815
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125885009766
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000166893005371
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000235080718994
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000174999237061
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000211000442505
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000124931335449
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000117778778076
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140905380249
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.60826873779e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000128984451294
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000188112258911
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000169038772583
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000147104263306
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.98973846436e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000148057937622
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000180959701538
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000164985656738
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000148773193359
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000156164169312
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000193119049072
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000290155410767
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125885009766
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000124931335449
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000174045562744
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135183334351
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136852264404
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000160932540894
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000115871429443
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.67979431152e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000164985656738
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00012993812561
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.67979431152e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000151872634888
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137805938721
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000128030776978
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000155925750732
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000232934951782
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135183334351
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000186920166016
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125169754028
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120162963867
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121831893921
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000175952911377
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136852264404
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000143051147461
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149965286255
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000185012817383
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.89437103271e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125885009766
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000191926956177
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00018310546875
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118970870972
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000126123428345
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000173091888428
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00013279914856
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000117063522339
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000205993652344
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000201225280762
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000163078308105
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000155210494995
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000229120254517
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000173091888428
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000213146209717
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000278949737549
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000393152236938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000236988067627
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000200033187866
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000186920166016
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000401020050049
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000160932540894
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000180006027222
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000122785568237
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000127077102661
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000124931335449
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000169038772583
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000126123428345
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000130891799927
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000128030776978
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000174999237061
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141859054565
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000153064727783
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000289916992188
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000172138214111
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000190019607544
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00014591217041
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140905380249
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000159978866577
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000127077102661
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111818313599
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000152826309204
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000181913375854
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000298976898193
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000189781188965
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000179052352905
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000214099884033
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000225067138672
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000200986862183
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000180006027222
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000258922576904
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000310897827148
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000126123428345
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141859054565
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000288963317871
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000128030776978
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000274896621704
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000216007232666
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000175952911377
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000271081924438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000120878219604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00010085105896
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.60826873779e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137805938721
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000114917755127
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000148057937622
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00014591217041
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144958496094
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00017786026001
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000161170959473
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140190124512
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000129222869873
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000147104263306
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001540184021
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136852264404
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140905380249
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.51290130615e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.48905944824e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00018310546875
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000135898590088
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000153779983521
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000128030776978
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000131130218506
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00012993812561
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000241041183472
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000200986862183
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.89437103271e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001220703125
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000101089477539
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000175952911377
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000100135803223
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000157117843628
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.91821289062e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.98973846436e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.79900360107e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.89437103271e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.58442687988e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000158071517944
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000100135803223
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000122785568237
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000354051589966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000100135803223
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.67979431152e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000151872634888
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00025486946106
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149965286255
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000170230865479
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000164985656738
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125169754028
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000150918960571
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141859054565
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00019383430481
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000203847885132
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001540184021
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000146865844727
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000266075134277
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125885009766
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123977661133
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000141143798828
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000137090682983
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000186920166016
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000161170959473
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000316143035889
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00012993812561
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000153064727783
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000365018844604
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000148057937622
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000138998031616
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001380443573
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000172853469849
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000160932540894
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000369787216187
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00015115737915
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000151872634888
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00014591217041
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000262022018433
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00016713142395
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000143051147461
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000211000442505
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000221967697144
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000134944915771
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000149011611938
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000115871429443
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000159025192261
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000150918960571
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110864639282
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000213861465454
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000146865844727
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133991241455
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00014591217041
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000112056732178
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000125169754028
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000236988067627
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000174999237061
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000345945358276
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000113010406494
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000113964080811
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000147104263306
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000121116638184
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000140905380249
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000111103057861
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000119924545288
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000311851501465
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000115156173706
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000179052352905
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000142097473145
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.00011420249939
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000133037567139
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.70363616943e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 9.60826873779e-05
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000139951705933
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000118017196655
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000123023986816
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000136137008667
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000272989273071
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104188919067
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108957290649
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109195709229
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000144004821777
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000106811523438
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000107049942017
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000109910964966
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000168085098267
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000132083892822
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000131845474243
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000153064727783
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105142593384
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000105857849121
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000110149383545
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000103950500488
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000102996826172
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000203132629395
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.0001060962677
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000104904174805
+
+Hops: 1
+Cost: 1
+Path: ['4', '1']
+Time: 0.000108003616333
