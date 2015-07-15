@@ -1,0 +1,6 @@
+a
+graphs/gr_n20_d2.txt
+y
+15
+2
+0
