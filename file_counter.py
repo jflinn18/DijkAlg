@@ -19,7 +19,8 @@ target_num = num_files(os.listdir(input_directory))
 print "Number of files in " + input_directory + " is: " + str(target_num)
 
 while True:
-    print "Number of files in " + data_directory + " is: " + str(num_files(data_directory))
+    data_num = num_files(os.listdir(data_directory))
+    print "Number of files in " + data_directory + " is: " + str(data_num)
     
     time.sleep(60)
 
