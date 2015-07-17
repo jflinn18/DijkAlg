@@ -1,0 +1,6 @@
+a
+graphs/gr_n40_d2.txt
+n
+2
+36
+7
